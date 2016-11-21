@@ -96,7 +96,7 @@ __Container__ an object that you can place a value in with a function that takes
 
 This will probably be a bit reminiscent "the Karate Kid" where Daniel has to paint the fence a thousand times before Mr. Miyagi will show him real Karate moves. But you will find, like Daniel, that after you are done painting fences you will already know karate. The patterns we will cover in Part Two are built on some simple and familiar building blocks.
 
-Probably the most common pattern in computing is the concept of and _Item_ and a _Collection_. When you write a function that will transform some input to some output it should be operating on an _Item_ not a _Collection_ because we have a way of mapping over a _Collection_ and applying that function to each _Item_.
+Probably the most common pattern in computing is the concept of an _Item_ and a _Collection_. When you write a function that will transform some input to some output it should be operating on an _Item_ not a _Collection_ because we have a way of mapping over a _Collection_ and applying that function to each _Item_.
 
 [This is an excellent tutorial](http://reactivex.io/learnrx/) written by Jafar Husain, tech lead at Netflix. It should take you a few hours and will give you skills you can apply immediately.
 
